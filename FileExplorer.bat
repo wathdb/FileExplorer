@@ -1,3 +1,4 @@
+@cd ../../../
 @dir
 :main
 @echo Commands list: del, cd, start, back, exit, create, move. (For more help, read the READ.ME on the GitHub)
