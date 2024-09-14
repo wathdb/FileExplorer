@@ -22,4 +22,4 @@ Move : La commande MOVE permet de déplacer n'importe quel fichier vers n'import
 
 Pour toute autre demande contactez moi sur Discord : wathd
 
-# ATTENTION EN RAISON D'UNE FONCTIONNALITE SI VOUS CHANGEZ LE FICHIER DE REPERTOIRE CELA PEUT CHANGER LE REPERTOIRE QUI VA ETRE AFFICHE AU DEMMARAGE ! (Pour aucune raison Windows defender considere le fichier comme malveillant)
+# CHANGER LE FICHIER DE REPERTOIRE PEUT CHANGER LE REPERTOIRE QUI VA ETRE AFFICHE AU DEMMARAGE ! (Pour aucune raison Windows defender considere le fichier comme malveillant)
