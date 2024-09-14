@@ -1,3 +1,5 @@
+@echo Ouvrir l'explorateur ?
+@pause
 @cd ../../../
 @dir
 :main
