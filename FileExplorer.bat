@@ -21,13 +21,13 @@
 @dir
 @goto main
 :move
-@set /p destination=Destination :
+@set /p destination=Destination : 
 @move %file% %destination%
 @cls
 @dir
 @goto main
 :rename
-@set /p rename=Rename :
+@set /p rename=Rename : 
 @rename %file% %rename%
 @cls
 @dir
