@@ -19,6 +19,7 @@ Create : La commande CREATE permet de créer n'importe quel type de fichiers. (e
 
 Move : La commande MOVE permet de déplacer n'importe quel fichier vers n'importe quel dossier (ex : move fichier.txt dossier)
 
+Rename : La commande RENAME permet de renommer n'importe quel fichier (ex : rename fichier1.txt fichier2.txt)
 
 Pour toute autre demande contactez moi sur Discord : wathd
 
