@@ -1,3 +1,4 @@
+::Plz start on GitHub :)
 @cd ../../../
 @dir
 :main
