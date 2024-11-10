@@ -1,4 +1,4 @@
-::Plz start on GitHub :)
+::Plz star on GitHub :)
 @cd ../../../
 @dir
 :main
