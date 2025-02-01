@@ -1,24 +1,24 @@
 # 🗂️ FileExplorer  
 
-**FileExplorer** est un navigateur en ligne de commande ultra-optimisé pour toutes les machines, **sans logs** (contrairement à certains explorateurs). 🔒  
+**FileExplorer** is a command-line file browser, highly optimized for all machines, and **no-logs** (unlike some explorers). 🔒  
 
-## ⚙️ Commandes  
+## ⚙️ Commands  
 
-> ⚠️ **Important** : Toujours entrer la commande dans le **premier input**, puis le fichier/dossier dans le **deuxième** !  
+> ⚠️ **Important**: Always enter the command in the **first input**, then the file/folder in the **second**!  
 
-| Commande  | Description |
+| Command  | Description |
 |-----------|------------|
-| **`del`** 🗑️  | Supprime un fichier du répertoire. *(ex: `del exemple.txt`)* |
-| **`cd`** 📂  | Accède à un **dossier**. *(ex: `cd dossier`)* |
-| **`start`** 🚀 | Ouvre un **fichier** avec son programme associé. *(ex: `start fichier.txt`)* |
-| **`back`** 🔙 | Retourne au **dossier précédent**. *(ex: `back`)* |
-| **`exit`** ❌ | Quitte l'explorateur de fichiers. *(ex: `exit`)* |
-| **`create`** ✏️ | Crée un **fichier** de n'importe quel type. *(ex: `create fichier.txt`)* |
-| **`move`** 📦 | Déplace un **fichier** vers un dossier. *(ex: `move fichier.txt dossier`)* |
-| **`rename`** 🔄 | Renomme un **fichier**. *(ex: `rename fichier1.txt fichier2.txt`)* |
+| **`del`** 🗑️  | Deletes a file from the directory. *(ex: `del example.txt`)* |
+| **`cd`** 📂  | Navigates to a **folder**. *(ex: `cd folder`)* |
+| **`start`** 🚀 | Opens a **file** with its associated program. *(ex: `start file.txt`)* |
+| **`back`** 🔙 | Returns to the **previous folder**. *(ex: `back`)* |
+| **`exit`** ❌ | Exits the file explorer. *(ex: `exit`)* |
+| **`create`** ✏️ | Creates a **file** of any type. *(ex: `create file.txt`)* |
+| **`move`** 📦 | Moves a **file** to a folder. *(ex: `move file.txt folder`)* |
+| **`rename`** 🔄 | Renames a **file**. *(ex: `rename file1.txt file2.txt`)* |
 
 ## 📞 Support  
-Si vous avez des questions ou besoin d'aide, contactez-moi sur **Discord**  
+If you have any questions or need help, contact me on **Discord**.  
 
 ---
 
@@ -27,7 +27,6 @@ If you like this project, consider giving it a star on GitHub to support it! �
 
 ---
 
-**Created with ❤️ by [wathD]**
+**Created with ❤️ by [wathD]**  
 
-⚠️ **Note** : Windows Defender peut **faussement** détecter ce fichier comme malveillant, mais il ne l'est pas. 🚫🔍  
-
+⚠️ **Note**: Windows Defender may **falsely** detect this file as malicious, but it is not. 🚫🔍
