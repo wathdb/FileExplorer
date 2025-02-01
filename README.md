@@ -18,9 +18,16 @@
 | **`rename`** 🔄 | Renomme un **fichier**. *(ex: `rename fichier1.txt fichier2.txt`)* |
 
 ## 📞 Support  
-Si vous avez des questions ou besoin d'aide, contactez-moi sur **Discord** : `wathd`  
+Si vous avez des questions ou besoin d'aide, contactez-moi sur **Discord**  
 
 ---
+
+## 🌟 **Give a Star ⭐**  
+If you like this project, consider giving it a star on GitHub to support it! 😊  
+
+---
+
+**Created with ❤️ by [wathD]**
 
 ⚠️ **Note** : Windows Defender peut **faussement** détecter ce fichier comme malveillant, mais il ne l'est pas. 🚫🔍  
 
