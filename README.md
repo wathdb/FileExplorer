@@ -1,26 +1,26 @@
-# FileExplorer
-FileExplorer est un navigateur en ligne de commande extrêmement optimisé pour toutes les machines et no-logs (contrairement a certains explorateurs)
+# 🗂️ FileExplorer  
 
-# Commandes
-(! attention toujours entrer la commande dans le premier input puis le fichier dans le deuxieme !)
-Liste des commandes : del, cd, start, back, exit, create, move.
+**FileExplorer** est un navigateur en ligne de commande ultra-optimisé pour toutes les machines, **sans logs** (contrairement à certains explorateurs). 🔒  
 
-Del : La commande DEL permet de suprimmer n'importe quel fichier du répertoire. (ex : del exemple.txt)
+## ⚙️ Commandes  
 
-Cd : La commande CD permet de choisir le DOSSIER auquel vous voulez accéder. (ex : cd dossier)
+> ⚠️ **Important** : Toujours entrer la commande dans le **premier input**, puis le fichier/dossier dans le **deuxième** !  
 
-Start : La commande START permet de lancer le FICHIER de votre choix. (ex : start fichier.txt)
+| Commande  | Description |
+|-----------|------------|
+| **`del`** 🗑️  | Supprime un fichier du répertoire. *(ex: `del exemple.txt`)* |
+| **`cd`** 📂  | Accède à un **dossier**. *(ex: `cd dossier`)* |
+| **`start`** 🚀 | Ouvre un **fichier** avec son programme associé. *(ex: `start fichier.txt`)* |
+| **`back`** 🔙 | Retourne au **dossier précédent**. *(ex: `back`)* |
+| **`exit`** ❌ | Quitte l'explorateur de fichiers. *(ex: `exit`)* |
+| **`create`** ✏️ | Crée un **fichier** de n'importe quel type. *(ex: `create fichier.txt`)* |
+| **`move`** 📦 | Déplace un **fichier** vers un dossier. *(ex: `move fichier.txt dossier`)* |
+| **`rename`** 🔄 | Renomme un **fichier**. *(ex: `rename fichier1.txt fichier2.txt`)* |
 
-Back : La commande BACK permet de retourner aux dossier précedent. (ex : back)
+## 📞 Support  
+Si vous avez des questions ou besoin d'aide, contactez-moi sur **Discord** : `wathd`  
 
-Exit : La commande EXIT permet de quitter l'explorateur de fichier. (ex : exit)
+---
 
-Create : La commande CREATE permet de créer n'importe quel type de fichiers. (ex : create fichier.txt)
+⚠️ **Note** : Windows Defender peut **faussement** détecter ce fichier comme malveillant, mais il ne l'est pas. 🚫🔍  
 
-Move : La commande MOVE permet de déplacer n'importe quel fichier vers n'importe quel dossier (ex : move fichier.txt dossier)
-
-Rename : La commande RENAME permet de renommer n'importe quel fichier (ex : rename fichier1.txt fichier2.txt)
-
-Pour toute autre demande contactez moi sur Discord : wathd
-
-# CHANGER LE FICHIER DE REPERTOIRE PEUT CHANGER LE REPERTOIRE QUI VA ETRE AFFICHE AU DEMMARAGE ! (Pour aucune raison Windows defender considere le fichier comme malveillant)
